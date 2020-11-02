@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student username="SE10" password="123">
+        <name>Phu</name>
+        <gender>male</gender>
+        <yob>2020/03/09</yob>
+        <courses>
+            <course mark="10">Java</course>
+            <course mark="9.5">C#</course>
+            <course mark="8">HTML/CSS</course>
+        </courses>
+    </student>
+    <student username="SE11" password="123">
+        <name>Linh</name>
+        <gender>male</gender>
+        <yob>2020/05/09</yob>
+        <courses>
+            <course mark="8">Java</course>
+            <course mark="7.5">C#</course>
+            <course mark="8.5">HTML/CSS</course>
+        </courses>
+    </student>
+    <student username="SE12" password="123">
+        <name>Khanh</name>
+        <gender>male</gender>
+        <yob>2020/03/02</yob>
+        <courses>
+            <course mark="10">Java</course>
+            <course mark="7.5">C#</course>
+            <course mark="8.6">HTML/CSS</course>
+        </courses>
+    </student>
+    <student username="SE13" password="123">
+        <name>Kyf</name>
+        <gender>male</gender>
+        <yob>2020/02/09</yob>
+        <courses>
+            <course mark="9">Java</course>
+            <course mark="10">C#</course>
+            <course mark="8.5">HTML/CSS</course>
+        </courses>
+    </student>
+</students>

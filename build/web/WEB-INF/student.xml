@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student password="123" username="SE10">
+        <name>Phu</name>
+        <gender>male</gender>
+        <yob>2020/03/09</yob>
+        <courses>
+            <course mark="10">Java</course>
+            <course mark="9.5">C#</course>
+            <course mark="8">HTML/CSS</course>
+        </courses>
+    </student>
+    <student password="123" username="SE11">
+        <name>Linh</name>
+        <gender>male</gender>
+        <yob>2020/05/09</yob>
+        <courses>
+            <course mark="8">Java</course>
+            <course mark="7.5">C#</course>
+            <course mark="8.5">HTML/CSS</course>
+        </courses>
+    </student>
+    <student password="123" username="SE12">
+        <name>Khanh</name>
+        <gender>male</gender>
+        <yob>2020/03/02</yob>
+        <courses>
+            <course mark="10">Java</course>
+            <course mark="7.5">C#</course>
+            <course mark="8.6">HTML/CSS</course>
+        </courses>
+    </student>
+    <student password="123" username="SE13">
+        <name>Kyf</name>
+        <gender>male</gender>
+        <yob>2020/02/09</yob>
+        <courses>
+            <course mark="9">Java</course>
+            <course mark="10">C#</course>
+            <course mark="8.5">HTML/CSS</course>
+        </courses>
+    </student>
+<student password="123" username="SE14"><name>Khanh</name><yob>2020/12/24</yob><gender>Female</gender><courses><course mark="5">Java</course><course mark="5">C#</course><course mark="5">HTML</course></courses></student><student password="dasda" username="asdas"><name>sdasd</name><yob>asdasdasd</yob><gender>asdasd</gender><courses><course mark="1">asdasd</course><course mark="2">asdasdasd</course><course mark="2">asdasdad</course></courses></student></students>
